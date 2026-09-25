@@ -105,8 +105,7 @@ Then open `http://localhost:8080`
 ---
 
 ## License
-
-MIT — but more importantly:  
+ 
 *If this moves you, pass it to someone who needs to know they're seen in the dark.*
 
 ---
